@@ -17,6 +17,7 @@
 
 # Architecture & Patterns
 - https://neo4j.com/blog/polyglot-persistence-microservices-spring-cloud-neo4j/
+- https://www.infoq.com/articles/spring-cloud-service-wiring
 
 # Production Case Studies
 - http://www.slideshare.net/ToddMiller34/spring-cloud-into-production 
