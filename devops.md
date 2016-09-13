@@ -14,6 +14,7 @@
 
 # Service Discovery
 - http://www.nvisia.com/insights/comparison-of-spring-cloud-with-eureka-vs.-consul
+- https://aws.amazon.com/blogs/compute/service-discovery-via-consul-with-amazon-ecs/
 
 # Architecture & Patterns
 - https://neo4j.com/blog/polyglot-persistence-microservices-spring-cloud-neo4j/
