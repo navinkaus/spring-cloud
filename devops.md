@@ -22,6 +22,7 @@
 - http://www.slideshare.net/ToddMiller34/spring-cloud-into-production 
 
 # Deployment
+- http://www.kennybastani.com/2015/07/spring-cloud-docker-microservices.html and https://github.com/kbastani/spring-cloud-microservice-example
 - https://www.future-processing.pl/blog/microservices-with-aws-ecs-and-spring-cloud/ 
 - http://stackoverflow.com/questions/31779344/how-should-i-configure-spring-cloud-with-netflix-zuul-and-eureka-in-a-docker-con
 
